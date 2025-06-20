@@ -1,5 +1,3 @@
-# chemical_data_visualozation.py
-A collection of Python scripts demonstrating various data visualization techniques for chemical and scientific data using Matplotlib
 # Data Visualization for Chemistry using Matplotlib
 
 This repository contains a collection of Python scripts demonstrating various data visualization techniques for chemical and scientific data using the `matplotlib` library. The goal is to create publication-quality plots that clearly communicate trends and insights.
